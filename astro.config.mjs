@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://felipealegrialara.github.io',
-	base: '/propuesta.github.io',
+	site: 'https://felipealegrialara.github.io/propuesta.github.io',
+	base: '/propuesta.github.io/',
 });
